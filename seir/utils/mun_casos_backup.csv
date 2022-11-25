@@ -1,0 +1,1567 @@
+ibgeID,city,totalCases,deaths
+1500107,Abaetetuba/PA,6,0
+3100203,Abaeté/MG,1,0
+2900108,Abaíra/BA,1,0
+2600054,Abreu e Lima/PE,31,1
+2900306,Acajutiba/BA,1,0
+2300150,Acarape/CE,4,1
+2300200,Acaraú/CE,1,1
+2400109,Acari/RN,1,0
+1500206,Acará/PA,1,0
+2300309,Acopiara/CE,3,0
+1200013,Acrelândia/AC,12,0
+3500105,Adamantina/SP,1,0
+2900355,Adustina/BA,1,1
+3200102,Afonso Cláudio/ES,2,0
+1500305,Afuá/PA,1,0
+3500709,Agudos/SP,7,1
+2900603,Aiquara/BA,1,0
+4300208,Ajuricaba/RS,1,0
+2500403,Alagoa Nova/PB,1,0
+2600609,Alagoinha/PE,1,0
+2900702,Alagoinhas/BA,7,0
+3500758,Alambari/SP,1,0
+5000252,Alcinópolis/MS,1,0
+2100204,Alcântara/MA,1,0
+2300507,Alcântaras/CE,1,0
+3200201,Alegre/ES,1,0
+4300406,Alegrete/RS,1,0
+2400505,Alexandria/RN,1,0
+3101607,Alfenas/MG,2,0
+3200300,Alfredo Chaves/ES,14,0
+2600708,Aliança/PE,5,1
+3101706,Almenara/MG,2,0
+4100400,Almirante Tamandaré/PR,6,0
+5200506,Aloândia/GO,1,0
+3101805,Alpercata/MG,1,0
+5100250,Alta Floresta/MT,1,0
+2100402,Altamira do Maranhão/MA,1,0
+1500602,Altamira/PA,6,0
+2600807,Altinho/PE,1,0
+1400050,Alto Alegre/RR,2,1
+4100608,Alto Paraná/PR,3,0
+1100403,Alto Paraíso/RO,1,0
+3200359,Alto Rio Novo/ES,0,0
+2400703,Alto do Rodrigues/RN,1,0
+2200400,Altos/PI,1,0
+4300604,Alvorada/RS,8,1
+4100905,Amaporã/PR,6,0
+2600906,Amaraji/PE,2,1
+3501608,Americana/SP,25,3
+2300754,Amontada/CE,1,0
+3501905,Amparo/SP,5,0
+2901106,Amélia Rodrigues/BA,1,0
+3501707,Américo Brasiliense/SP,5,0
+2100709,Anajatuba/MA,4,1
+1300086,Anamã/AM,1,0
+1500800,Ananindeua/PA,120,1
+3200409,Anchieta/ES,7,0
+3502101,Andradina/SP,3,0
+3502200,Angatuba/SP,1,1
+2200608,Angical do Piauí/PI,1,0
+3300100,Angra dos Reis/RJ,9,0
+5201207,Anhanguera/GO,1,0
+4201000,Anita Garibaldi/SC,1,0
+1300102,Anori/AM,8,0
+4300703,Anta Gorda/RS,2,0
+4201208,Antônio Carlos/SC,11,3
+5201108,Anápolis/GO,35,0
+5201405,Aparecida de Goiânia/GO,15,1
+3502507,Aparecida/SP,1,0
+3200508,Apiacá/ES,3,0
+3502705,Apiaí/SP,1,0
+2401008,Apodi/RN,7,1
+4101408,Apucarana/PR,12,2
+2301000,Aquiraz/CE,39,0
+4201273,Arabutã/SC,5,0
+2800308,Aracaju/SE,74,5
+2301109,Aracati/CE,8,1
+2902104,Araci/BA,1,1
+2301208,Aracoiaba/CE,3,0
+3200607,Aracruz/ES,10,0
+5201801,Aragoiânia/GO,1,0
+3103504,Araguari/MG,7,0
+1702109,Araguaína/TO,7,0
+3503109,Arandu/SP,7,0
+2700300,Arapiraca/AL,3,0
+4101507,Arapongas/PR,13,1
+4201406,Araranguá/SC,4,0
+3503208,Araraquara/SP,51,2
+3503307,Araras/SP,6,0
+2101004,Arari/MA,3,0
+2301307,Araripe/CE,1,0
+3300209,Araruama/RJ,19,1
+4101705,Araruna/PR,8,0
+4101804,Araucária/PR,6,0
+3104007,Araxá/MG,3,0
+3502754,Araçariguama/SP,1,0
+3502804,Araçatuba/SP,39,1
+3502903,Araçoiaba da Serra/SP,1,0
+2601052,Araçoiaba/PE,3,0
+3104106,Arceburgo/MG,1,0
+3104205,Arcos/MG,7,0
+2601201,Arcoverde/PE,12,2
+3300225,Areal/RJ,1,0
+2401107,Areia Branca/RN,4,0
+5101407,Aripuanã/MT,2,1
+1100023,Ariquemes/RO,39,0
+4201505,Armazém/SC,2,0
+3300233,Armação dos Búzios/RJ,4,0
+2301505,Arneiroz/CE,1,0
+3300258,Arraial do Cabo/RJ,3,1
+4301008,Arroio do Meio/RS,1,0
+4301057,Arroio do Sal/RS,2,1
+4301107,Arroio dos Ratos/RS,3,0
+3503802,Artur Nogueira/SP,1,0
+3503901,Arujá/SP,25,1
+4101903,Assaí/PR,1,0
+4102000,Assis Chateaubriand/PR,9,0
+3504008,Assis/SP,6,1
+3504107,Atibaia/SP,22,1
+1500909,Augusto Corrêa/PA,2,0
+2902401,Aurelino Leal/BA,1,0
+4201901,Aurora/SC,1,0
+1300300,Autazes/AM,3,0
+3504503,Avaré/SP,8,1
+3504305,Avaí/SP,1,0
+2100055,Açailândia/MA,8,0
+2400208,Açu/RN,24,1
+2101202,Bacabal/MA,8,0
+2101251,Bacabeira/MA,1,0
+3504602,Bady Bassitt/SP,2,0
+4301602,Bagé/RS,29,0
+4201950,Balneário Arroio do Silva/SC,3,1
+4202008,Balneário Camboriú/SC,59,1
+4202073,Balneário Gaivota/SC,2,1
+4212809,Balneário Piçarras/SC,2,0
+4102307,Balsa Nova/PR,5,0
+2101400,Balsas/MA,4,0
+2301851,Banabuiú/CE,2,0
+4102406,Bandeirantes/PR,3,1
+2401453,Baraúna/RN,0,0
+3105608,Barbacena/MG,4,0
+2301901,Barbalha/CE,2,0
+1501303,Barcarena/PA,6,0
+2401503,Barcelona/RN,1,0
+1300409,Barcelos/AM,1,1
+3505203,Bariri/SP,1,0
+3300407,Barra Mansa/RJ,17,1
+4202107,Barra Velha/SC,1,0
+2501708,Barra de São Miguel/PB,1,0
+2902906,Barra do Choça/BA,1,0
+5101803,Barra do Garças/MT,3,1
+3300308,Barra do Piraí/RJ,13,3
+2903102,Barra do Rocha/BA,3,0
+3505401,Barra do Turvo/SP,1,0
+2902708,Barra/BA,2,0
+2301950,Barreira/CE,1,0
+2903201,Barreiras/BA,1,0
+2101707,Barreirinhas/MA,1,0
+3505500,Barretos/SP,15,2
+2903300,Barro Preto/BA,1,0
+2302057,Barroquinha/CE,2,0
+3505708,Barueri/SP,148,5
+5001904,Bataguassu/MS,2,0
+3505906,Batatais/SP,1,0
+5002001,Batayporã/MS,6,2
+2302107,Baturité/CE,4,0
+3506003,Bauru/SP,58,3
+2501807,Bayeux/PB,10,1
+2401404,Baía Formosa/RN,1,0
+3506102,Bebedouro/SP,2,0
+2302206,Beberibe/CE,6,0
+2302305,Bela Cruz/CE,5,0
+5203302,Bela Vista de Goiás/GO,1,0
+3300456,Belford Roxo/RJ,84,7
+3106101,Belmiro Braga/MG,1,1
+2903409,Belmonte/BA,2,1
+3106200,Belo Horizonte/MG,487,9
+2601706,Belo Jardim/PE,5,0
+1501402,Belém/PA,776,26
+1501501,Benevides/PA,7,0
+1300607,Benjamin Constant/AM,13,0
+2401602,Bento Fernandes/RN,2,0
+4302105,Bento Gonçalves/RS,14,0
+1300631,Beruri/AM,1,1
+3106705,Betim/MG,10,0
+2201739,Betânia do Piauí/PI,1,0
+2601904,Bezerros/PE,1,0
+4202305,Biguaçu/SC,2,0
+3506409,Bilac/SP,1,0
+3506508,Birigui/SP,8,0
+4202404,Blumenau/SC,81,0
+3201001,Boa Esperança/ES,1,0
+3107109,Boa Esperança/MG,7,0
+4103057,Boa Vista da Aparecida/PR,1,0
+1400100,Boa Vista/RR,262,2
+2701001,Boca da Mata/AL,1,0
+1300706,Boca do Acre/AM,1,0
+3507001,Boituva/SP,7,0
+2602100,Bom Conselho/PE,2,1
+3107406,Bom Despacho/MG,1,0
+2602209,Bom Jardim/PE,5,1
+3300506,Bom Jardim/RJ,4,1
+5203500,Bom Jesus de Goiás/GO,1,0
+3300605,Bom Jesus do Itabapoana/RJ,6,1
+3201100,Bom Jesus do Norte/ES,5,0
+2502201,Bom Jesus/PB,1,0
+2201919,Bom Princípio do Piauí/PI,1,1
+4302402,Bom Retiro do Sul/RS,2,0
+2201929,Bonfim do Piauí/PI,1,0
+3108107,Bonfim/MG,1,1
+1400159,Bonfim/RR,4,0
+2602308,Bonito/PE,2,1
+3108305,Borda da Mata/MG,2,0
+3108404,Botelhos/MG,1,0
+3507506,Botucatu/SP,28,2
+4202701,Botuverá/SC,3,0
+3507605,Bragança Paulista/SP,36,7
+1501709,Bragança/PA,7,0
+5300108,Brasília/DF,959,25
+4202800,Braço do Norte/SC,27,2
+3201159,Brejetuba/ES,1,0
+1501808,Breves/PA,4,1
+3507803,Brodowski/SP,4,0
+2904605,Brumado/BA,8,0
+4202909,Brusque/SC,36,0
+2904704,Buerarema/BA,2,0
+1200138,Bujari/AC,1,0
+1501907,Bujaru/PA,3,0
+3508108,Buritama/SP,3,0
+1100452,Buritis/RO,1,0
+27,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,8,2
+13,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,0,1
+29,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,13,1
+23,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,455,12
+32,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,65,1
+52,CASO SEM LOCALIZAÇÃO DEFINIDA/GO,0,0
+31,CASO SEM LOCALIZAÇÃO DEFINIDA/MG,13,0
+51,CASO SEM LOCALIZAÇÃO DEFINIDA/MT,4,0
+15,CASO SEM LOCALIZAÇÃO DEFINIDA/PA,0,0
+26,CASO SEM LOCALIZAÇÃO DEFINIDA/PE,12,1
+41,CASO SEM LOCALIZAÇÃO DEFINIDA/PR,14,2
+33,CASO SEM LOCALIZAÇÃO DEFINIDA/RJ,6,0
+24,CASO SEM LOCALIZAÇÃO DEFINIDA/RN,5,0
+42,CASO SEM LOCALIZAÇÃO DEFINIDA/SC,14,0
+35,CASO SEM LOCALIZAÇÃO DEFINIDA/SP,63,0
+2503209,Cabedelo/PB,15,2
+3300704,Cabo Frio/RJ,12,0
+2602902,Cabo de Santo Agostinho/PE,40,12
+3508405,Cabreúva/SP,1,0
+2102374,Cachoeira Grande/MA,1,0
+3508603,Cachoeira Paulista/SP,3,0
+1502004,Cachoeira do Arari/PA,2,0
+4303004,Cachoeira do Sul/RS,2,0
+2904902,Cachoeira/BA,1,0
+3300803,Cachoeiras de Macacu/RJ,5,1
+2603108,Cachoeirinha/PE,8,0
+4303103,Cachoeirinha/RS,9,0
+3201209,Cachoeiro de Itapemirim/ES,8,0
+3110004,Caeté/MG,1,0
+2603207,Caetés/PE,1,0
+3508900,Caiabu/SP,1,1
+2402006,Caicó/RN,0,0
+3509007,Caieiras/SP,50,7
+3509205,Cajamar/SP,11,1
+2102408,Cajapió/MA,1,0
+2503704,Cajazeiras/PB,2,1
+3509403,Cajuru/SP,2,0
+5204508,Caldas Novas/GO,1,0
+2905602,Camacan/BA,1,0
+3110509,Camanducaia/MG,2,0
+4303509,Camaquã/RS,0,0
+2603454,Camaragibe/PE,117,11
+2905701,Camaçari/BA,24,0
+4203204,Camboriú/SC,61,3
+3110707,Cambuquira/MG,1,0
+3110608,Cambuí/MG,7,0
+4103701,Cambé/PR,4,0
+1502103,Cametá/PA,2,1
+2302602,Camocim/CE,1,0
+5204607,Campestre de Goiás/GO,1,0
+4104006,Campina Grande do Sul/PR,5,0
+2504009,Campina Grande/PB,24,2
+4103909,Campina da Lagoa/PR,1,1
+4303806,Campinas do Sul/RS,1,0
+3509502,Campinas/SP,202,9
+3111200,Campo Belo/MG,3,0
+4303905,Campo Bom/RS,4,0
+2906006,Campo Formoso/BA,1,0
+5002704,Campo Grande/MS,91,2
+4104204,Campo Largo/PR,17,2
+3509601,Campo Limpo Paulista/SP,7,1
+4104253,Campo Magro/PR,1,0
+2202208,Campo Maior/PI,3,0
+4104303,Campo Mourão/PR,26,4
+5102637,Campo Novo do Parecis/MT,1,0
+3111507,Campos Altos/MG,1,0
+3111606,Campos Gerais/MG,1,0
+3509700,Campos do Jordão/SP,1,0
+3301009,Campos dos Goytacazes/RJ,7,1
+3509908,Cananéia/SP,1,0
+2906204,Canarana/BA,2,0
+5102702,Canarana/MT,1,0
+2906303,Canavieiras/BA,5,0
+1502152,Canaã dos Carajás/PA,1,1
+2906501,Candeias/BA,2,0
+4304200,Candelária/RS,1,0
+4203709,Canelinha/SC,1,0
+2402204,Canguaretama/RN,7,2
+4304507,Canguçu/RS,2,0
+2302800,Canindé/CE,8,0
+4304606,Canoas/RS,19,1
+2906808,Cansanção/BA,1,0
+3301108,Cantagalo/RJ,1,0
+2102705,Cantanhede/MA,1,0
+1400175,Cantá/RR,4,0
+1300904,Canutama/AM,1,0
+1502202,Capanema/PA,8,0
+3510302,Capela do Alto/SP,1,0
+2701704,Capela/AL,1,0
+2801306,Capela/SE,1,0
+2906873,Capim Grosso/BA,2,1
+2302909,Capistrano/CE,1,1
+1502301,Capitão Poço/PA,1,0
+3112802,Capitólio/MG,1,0
+4203956,Capivari de Baixo/SC,2,0
+2603801,Capoeiras/PE,1,0
+3510203,Capão Bonito/SP,1,0
+4304630,Capão da Canoa/RS,6,0
+4304663,Capão do Leão/RS,1,0
+2202505,Caracol/PI,1,0
+3510500,Caraguatatuba/SP,14,2
+3113305,Carangola/MG,1,0
+3300936,Carapebus/RJ,1,0
+3510609,Carapicuíba/SP,104,3
+1301001,Carauari/AM,1,1
+4304705,Carazinho/RS,2,0
+2402303,Caraúbas/RN,1,0
+1301159,Careiro da Várzea/AM,4,0
+1301100,Careiro/AM,9,2
+3201308,Cariacica/ES,130,3
+2303006,Caridade/CE,2,0
+1703867,Cariri do Tocantins/TO,1,0
+2303303,Cariús/CE,1,1
+4304804,Carlos Barbosa/RS,5,0
+3113701,Carlos Chagas/MG,1,0
+3113909,Carmo da Cachoeira/MG,1,0
+3114204,Carmo do Cajuru/MG,2,0
+5205000,Carmo do Rio Verde/GO,1,0
+2402501,Carnaubais/RN,1,0
+2603900,Carnaíba/PE,1,1
+1400233,Caroebe/RR,1,0
+2604007,Carpina/PE,4,0
+2604106,Caruaru/PE,15,2
+2303501,Cascavel/CE,8,1
+4104808,Cascavel/PR,64,3
+3301306,Casimiro de Abreu/RJ,13,0
+1502400,Castanhal/PA,27,0
+3201407,Castelo/ES,3,0
+3511003,Castilho/SP,1,0
+2907301,Castro Alves/BA,1,0
+4104907,Castro/PR,2,0
+3115300,Cataguases/MG,3,1
+5205109,Catalão/GO,1,0
+3511102,Catanduva/SP,9,3
+4204004,Catanduvas/SC,2,0
+2303600,Catarina/CE,1,0
+2604205,Catende/PE,2,1
+2907509,Catu/BA,4,0
+2303709,Caucaia/CE,108,7
+4305108,Caxias do Sul/RS,44,0
+2103000,Caxias/MA,7,0
+4203006,Caçador/SC,5,0
+3508504,Caçapava/SP,9,0
+2402600,Ceará-Mirim/RN,8,0
+3511300,Cedral/SP,1,0
+3115805,Centralina/MG,1,0
+5205406,Ceres/GO,3,0
+2402709,Cerro Corá/RN,1,1
+4305173,Cerro Grande do Sul/RS,1,0
+5103007,Chapada dos Guimarães/MT,0,0
+4305306,Chapada/RS,1,0
+2103208,Chapadinha/MA,1,0
+5002951,Chapadão do Sul/MS,9,0
+4204202,Chapecó/SC,6,0
+4305355,Charqueadas/RS,2,0
+3557204,Chavantes/SP,1,0
+4105409,Chopinzinho/PR,1,0
+2303956,Chorozinho/CE,3,0
+2604502,Chã Grande/PE,3,0
+2604403,Chã de Alegria/PE,3,0
+4105508,Cianorte/PR,15,1
+5205497,Cidade Ocidental/GO,4,0
+4305454,Cidreira/RS,2,1
+2908002,Coaraci/BA,4,0
+1301209,Coari/AM,2,0
+4204251,Cocal do Sul/SC,1,1
+1502608,Colares/PA,1,0
+3201506,Colatina/ES,19,0
+2103505,Colinas/MA,2,0
+4105805,Colombo/PR,9,0
+2202752,Colônia do Gurguéia/PI,1,0
+3117306,Conceição das Alagoas/MG,2,0
+3301405,Conceição de Macabu/RJ,2,0
+1502707,Conceição do Araguaia/PA,1,0
+2908408,Conceição do Coité/BA,2,0
+2908507,Conceição do Jacuípe/BA,1,0
+3512308,Conchas/SP,1,1
+4204301,Concórdia/SC,9,0
+2908606,Conde/BA,1,0
+2504603,Conde/PB,1,0
+2504702,Congo/PB,1,0
+5103361,Conquista D'Oeste/MT,1,0
+3118304,Conselheiro Lafaiete/MG,12,0
+3118601,Contagem/MG,42,0
+4106209,Contenda/PR,1,0
+2908903,Coração de Maria/BA,1,0
+2304004,Coreaú/CE,1,0
+2504801,Coremas/PB,1,0
+4106407,Cornélio Procópio/PR,1,0
+3119302,Coromandel/MG,2,0
+3119401,Coronel Fabriciano/MG,6,0
+2402907,Coronel João Pessoa/RN,1,0
+5003207,Corumbá/MS,2,0
+3513009,Cotia/SP,94,5
+5003306,Coxim/MS,1,0
+2304103,Crateús/CE,4,0
+2304202,Crato/CE,4,0
+3513108,Cravinhos/SP,7,1
+2909505,Cravolândia/BA,2,0
+4204608,Criciúma/SC,46,4
+2304236,Croatá/CE,1,0
+2504900,Cruz do Espírito Santo/PB,1,0
+1200203,Cruzeiro do Sul/AC,5,0
+4106704,Cruzeiro do Sul/PR,1,0
+4306205,Cruzeiro do Sul/RS,2,0
+3513405,Cruzeiro/SP,3,1
+3513504,Cubatão/SP,25,0
+5103403,Cuiabá/MT,102,1
+2605004,Cupira/PE,1,0
+2909901,Curaçá/BA,3,0
+1502772,Curionópolis/PA,1,1
+4106902,Curitiba/PR,380,14
+2403103,Currais Novos/RN,2,0
+1502806,Curralinho/PA,0,0
+2103703,Cururupu/MA,1,1
+1502905,Curuçá/PA,1,0
+3120904,Curvelo/MG,1,0
+2605103,Custódia/PE,1,0
+5102504,Cáceres/MT,4,1
+2103752,Davinópolis/MA,1,0
+2203305,Demerval Lobão/PI,1,0
+3513801,Diadema/SP,138,5
+1707009,Dianópolis/TO,1,0
+2910057,Dias d'Ávila/BA,4,0
+3121902,Divinésia/MG,1,0
+3122306,Divinópolis/MG,41,1
+4306403,Dois Irmãos/RS,3,0
+4107207,Dois Vizinhos/PR,1,0
+4306601,Dom Pedrito/RS,1,0
+3201902,Domingos Martins/ES,3,0
+5003702,Dourados/MS,11,0
+3514403,Dracena/SP,3,2
+3514502,Duartina/SP,1,0
+3301702,Duque de Caxias/RJ,217,38
+4306767,Eldorado do Sul/RS,1,0
+3514809,Eldorado/SP,1,1
+3514908,Elias Fausto/SP,1,0
+3515004,Embu das Artes/SP,62,5
+3515103,Embu-Guaçu/SP,7,0
+4306809,Encantado/RS,2,0
+2403301,Encanto/RN,4,1
+4306908,Encruzilhada do Sul/RS,2,1
+4307005,Erechim/RS,4,0
+2605202,Escada/PE,4,0
+3124104,Esmeraldas/MG,1,0
+3124203,Espera Feliz/MG,3,0
+2203701,Esperantina/PI,4,0
+3124302,Espinosa/MG,1,1
+4307500,Espumoso/RS,3,0
+3124401,Espírito Santo do Dourado/MG,1,0
+4307708,Esteio/RS,5,0
+3557303,Estiva Gerbi/SP,1,0
+4307807,Estrela/RS,4,0
+4307609,Estância Velha/RS,3,0
+2802106,Estância/SE,12,0
+2910701,Euclides da Cunha/BA,1,0
+2910727,Eunápolis/BA,13,0
+2304285,Eusébio/CE,39,6
+3125101,Extrema/MG,20,1
+2403608,Extremoz/RN,6,0
+5207535,Faina/GO,1,0
+2304301,Farias Brito/CE,1,1
+4307906,Farroupilha/RS,7,0
+3515400,Fartura/SP,1,0
+4107603,Faxinal/PR,1,0
+4107652,Fazenda Rio Grande/PR,7,0
+2605400,Feira Nova/PE,2,0
+2910800,Feira de Santana/BA,61,1
+2605459,Fernando de Noronha/PE,28,0
+3515509,Fernandópolis/SP,4,0
+3515707,Ferraz de Vasconcelos/SP,59,3
+2605509,Ferreiros/PE,1,0
+3125903,Ferros/MG,5,0
+4308201,Flores da Cunha/RS,1,0
+2911006,Floresta Azul/BA,2,0
+4107900,Floresta/PR,2,0
+2203909,Floriano/PI,4,0
+4205407,Florianópolis/SC,244,4
+3126109,Formiga/MG,5,0
+5208004,Formosa/GO,4,0
+2304350,Forquilha/CE,1,0
+4205456,Forquilhinha/SC,1,0
+2304400,Fortaleza/CE,3018,176
+2304459,Fortim/CE,1,0
+4108304,Foz do Iguaçu/PR,38,0
+3516200,Franca/SP,6,0
+2204006,Francinópolis/PI,1,0
+4108403,Francisco Beltrão/PR,3,0
+3516309,Francisco Morato/SP,33,1
+3516408,Franco da Rocha/SP,67,4
+2605806,Frei Miguelinho/PE,2,0
+3127107,Frutal/MG,2,0
+3202207,Fundão/ES,7,0
+2605905,Gameleira/PE,1,1
+2911204,Gandu/BA,1,0
+2606002,Garanhuns/PE,9,2
+4308607,Garibaldi/RS,4,0
+4205704,Garopaba/SC,2,0
+1503077,Garrafão do Norte/PA,1,0
+3516705,Garça/SP,1,0
+4205902,Gaspar/SC,7,1
+4309050,Glorinha/RS,1,0
+2606101,Glória do Goitá/PE,4,1
+2606200,Goiana/PE,8,3
+5208509,Goiandira/GO,2,1
+5208806,Goianira/GO,1,0
+3127388,Goianá/MG,3,0
+1503093,Goianésia do Pará/PA,1,0
+5208608,Goianésia/GO,24,1
+5209101,Goiatuba/GO,1,0
+4108601,Goioerê/PR,4,0
+5208707,Goiânia/GO,255,10
+2911501,Gongogi/BA,3,2
+4206009,Governador Celso Ramos/SC,3,0
+2104677,Governador Nunes Freire/MA,1,0
+3127701,Governador Valadares/MG,11,2
+2304707,Granja/CE,2,0
+4206207,Gravatal/SC,11,0
+4309209,Gravataí/RS,15,0
+2606408,Gravatá/PE,2,0
+2304657,Graça/CE,2,0
+2304905,Groaíras/CE,1,0
+4206306,Guabiruba/SC,2,0
+4108908,Guairaçá/PR,3,0
+2304954,Guaiúba/CE,1,0
+2911709,Guanambi/BA,0,0
+3301850,Guapimirim/RJ,4,0
+5209200,Guapó/GO,1,0
+4109203,Guaraci/PR,1,0
+2305001,Guaraciaba do Norte/CE,1,0
+4206504,Guaramirim/SC,1,0
+4109302,Guaraniaçu/PR,5,0
+3128303,Guaranésia/MG,1,0
+3202405,Guarapari/ES,12,0
+4109401,Guarapuava/PR,3,0
+3518206,Guararapes/SP,3,0
+3518305,Guararema/SP,2,0
+3518404,Guaratinguetá/SP,1,0
+3518701,Guarujá/SP,68,2
+3518800,Guarulhos/SP,331,28
+3128709,Guaxupé/MG,2,0
+3202306,Guaçuí/ES,1,0
+4309308,Guaíba/RS,2,0
+4108809,Guaíra/PR,8,1
+3128907,Guimarânia/MG,1,0
+1709500,Gurupi/TO,1,0
+3518909,Guzolândia/SP,1,0
+4309555,Harmonia/RS,5,0
+4206702,Herval d'Oeste/SC,2,0
+2305209,Hidrolândia/CE,1,0
+5209705,Hidrolândia/GO,0,0
+2305233,Horizonte/CE,21,2
+3519071,Hortolândia/SP,10,0
+4109708,Ibaiti/PR,1,0
+2305266,Ibaretama/CE,1,0
+2703007,Ibateguara/AL,1,1
+4109757,Ibema/PR,11,0
+2912103,Ibicaraí/BA,1,0
+2305332,Ibicuitinga/CE,1,0
+4109807,Ibiporã/PR,1,0
+4309951,Ibirapuitã/RS,2,0
+2912905,Ibirataia/BA,3,0
+3202504,Ibiraçu/ES,2,0
+3129806,Ibirité/MG,4,0
+3519402,Ibirá/SP,1,0
+3519709,Ibiúna/SP,3,0
+2913200,Ibotirama/BA,1,0
+2305357,Icapuí/CE,1,0
+2105104,Icatu/MA,0,0
+2305407,Icó/CE,4,0
+2404606,Ielmo Marinho/RN,1,0
+3519907,Iepê/SP,1,1
+2502607,Igaracy/PB,1,0
+3520103,Igarapava/SP,2,0
+1503200,Igarapé-Açu/PA,2,0
+2606804,Igarassu/PE,27,5
+3520202,Igaratá/SP,1,0
+3301876,Iguaba Grande/RJ,11,3
+3520301,Iguape/SP,3,0
+2305506,Iguatu/CE,11,4
+3520426,Ilha Comprida/SP,16,1
+3520442,Ilha Solteira/SP,1,0
+2607604,Ilha de Itamaracá/PE,5,0
+3520400,Ilhabela/SP,3,0
+4207106,Ilhota/SC,1,0
+2913606,Ilhéus/BA,95,3
+4110078,Imbaú/PR,2,0
+4207304,Imbituba/SC,15,0
+4310330,Imbé/RS,1,0
+2105302,Imperatriz/MA,54,3
+2607000,Inajá/PE,1,0
+4207502,Indaial/SC,4,1
+3520509,Indaiatuba/SP,9,0
+2305605,Independência/CE,2,0
+2802809,Indiaroba/SE,1,0
+1503408,Inhangapi/PA,1,0
+2204709,Inhuma/PI,1,0
+5210000,Inhumas/GO,1,0
+3131158,Ipaba/MG,2,0
+2404705,Ipanguaçu/RN,2,0
+2305654,Ipaporanga/CE,2,0
+3131307,Ipatinga/MG,9,0
+2913903,Ipiaú/BA,15,1
+5104526,Ipiranga do Norte/MT,1,0
+2914000,Ipirá/BA,4,0
+2607208,Ipojuca/PE,13,2
+2607307,Ipubi/PE,8,0
+2305902,Ipueiras/CE,2,1
+3131505,Ipuiúna/MG,1,0
+4207700,Ipumirim/SC,6,0
+3521408,Iracemápolis/SP,1,0
+1301852,Iranduba/AM,37,4
+4207809,Irani/SC,3,0
+4207858,Irati/SC,1,0
+2914604,Irecê/BA,1,0
+4110805,Iretama/PR,1,1
+3202652,Irupi/ES,1,0
+2506905,Itabaiana/PB,1,0
+2802908,Itabaiana/SE,4,0
+2803005,Itabaianinha/SE,7,1
+2914653,Itabela/BA,1,0
+2914703,Itaberaba/BA,1,0
+3131703,Itabira/MG,6,1
+3301900,Itaboraí/RJ,55,7
+2914802,Itabuna/BA,70,1
+1301902,Itacoatiara/AM,48,1
+2915106,Itagi/BA,1,0
+2915205,Itagibá/BA,5,1
+3132206,Itaguara/MG,1,0
+5210604,Itaguaru/GO,2,0
+3302007,Itaguaí/RJ,14,3
+2306256,Itaitinga/CE,15,1
+1503606,Itaituba/PA,6,0
+2306207,Itaiçaba/CE,1,0
+4208104,Itaiópolis/SC,1,0
+4208203,Itajaí/SC,45,2
+3132404,Itajubá/MG,2,0
+2915502,Itajuípe/BA,6,0
+2915601,Itamaraju/BA,1,0
+2915700,Itamari/BA,0,0
+2607653,Itambé/PE,1,0
+3133105,Itanhandu/MG,4,0
+3522109,Itanhaém/SP,6,1
+3133303,Itaobim/MG,1,0
+2306306,Itapajé/CE,1,0
+2916302,Itapebi/BA,5,0
+3522208,Itapecerica da Serra/SP,53,1
+3133501,Itapecerica/MG,3,0
+2105401,Itapecuru Mirim/MA,0,0
+4208302,Itapema/SC,10,0
+3202801,Itapemirim/ES,2,0
+3302205,Itaperuna/RJ,3,0
+4111258,Itaperuçu/PR,1,0
+2607703,Itapetim/PE,1,0
+2916401,Itapetinga/BA,5,1
+3522307,Itapetininga/SP,7,1
+3133600,Itapeva/MG,1,0
+3522406,Itapeva/SP,1,0
+3522505,Itapevi/SP,51,5
+2306405,Itapipoca/CE,5,0
+3522604,Itapira/SP,15,3
+4208401,Itapiranga/SC,1,0
+2607752,Itapissuma/PE,3,0
+2306504,Itapiúna/CE,1,0
+2803203,Itaporanga d'Ajuda/SE,1,0
+2507101,Itapororoca/PB,1,0
+2916203,Itapé/BA,1,1
+3523107,Itaquaquecetuba/SP,53,0
+2916807,Itarantim/BA,1,0
+3523206,Itararé/SP,1,0
+2306553,Itarema/CE,1,0
+3302254,Itatiaia/RJ,2,0
+3523404,Itatiba/SP,4,1
+2916856,Itatim/BA,1,0
+3523503,Itatinga/SP,1,0
+2205102,Itaueira/PI,1,0
+3133808,Itaúna/MG,1,0
+2917102,Itororó/BA,4,0
+3523909,Itu/SP,5,0
+2917300,Ituberá/BA,1,0
+3134202,Ituiutaba/MG,1,0
+5211503,Itumbiara/GO,8,0
+3524006,Itupeva/SP,3,0
+4208500,Ituporanga/SC,1,0
+4111506,Ivaiporã/PR,6,1
+4310801,Ivoti/RS,4,1
+4207007,Içara/SC,7,0
+2607901,Jaboatão dos Guararapes/PE,253,23
+3524204,Jaborandi/SP,1,0
+3524303,Jaboticabal/SP,9,2
+3134608,Jaboticatubas/MG,2,0
+4111803,Jacarezinho/PR,1,0
+3524402,Jacareí/SP,23,0
+3524501,Jaci/SP,6,0
+5104807,Jaciara/MT,1,0
+4111902,Jaguapitã/PR,1,0
+2917607,Jaguaquara/BA,4,0
+2306702,Jaguaretama/CE,1,0
+2306900,Jaguaribe/CE,11,2
+3524709,Jaguariúna/SP,3,0
+2307007,Jaguaruana/CE,3,0
+4208807,Jaguaruna/SC,4,0
+3524808,Jales/SP,2,0
+3135100,Janaúba/MG,3,0
+3525003,Jandira/SP,16,2
+2405306,Januário Cicco/RN,1,0
+3302270,Japeri/RJ,13,1
+4112405,Japurá/PR,1,0
+4208906,Jaraguá do Sul/SC,12,0
+2307106,Jardim/CE,1,0
+3525102,Jardinópolis/SP,3,0
+1100114,Jaru/RO,1,0
+4112702,Jataizinho/PR,2,0
+5211909,Jataí/GO,4,0
+2608008,Jataúba/PE,1,0
+2608057,Jatobá/PE,1,0
+2405009,Jaçanã/RN,1,0
+3525300,Jaú/SP,5,0
+3135407,Jeceaba/MG,1,0
+2918001,Jequié/BA,20,0
+3203106,Jerônimo Monteiro/ES,1,0
+1100122,Ji-Paraná/RO,7,2
+3525508,Joanópolis/SP,1,0
+4209003,Joaçaba/SC,5,0
+4209102,Joinville/SC,100,2
+3525706,José Bonifácio/SP,2,0
+2608107,João Alfredo/PE,5,0
+3136207,João Monlevade/MG,3,0
+3203130,João Neiva/ES,2,0
+2507507,João Pessoa/PB,230,25
+2307304,Juazeiro do Norte/CE,7,0
+2918407,Juazeiro/BA,7,1
+2608255,Jucati/PE,1,0
+2307403,Jucás/CE,0,0
+3136702,Juiz de Fora/MG,102,2
+2105658,Junco do Maranhão/MA,1,0
+2507804,Junco do Seridó/PB,3,1
+3525904,Jundiaí/SP,67,8
+3526001,Junqueirópolis/SP,1,0
+2608305,Jupi/PE,1,0
+3526209,Juquitiba/SP,1,1
+1503903,Juruti/PA,4,1
+1302207,Juruá/AM,1,0
+4113007,Jussara/PR,1,1
+1302306,Jutaí/AM,1,0
+5005202,Ladário/MS,1,0
+2803500,Lagarto/SE,2,0
+4209300,Lages/SC,13,0
+3137403,Lagoa Dourada/MG,1,0
+3137601,Lagoa Santa/MG,3,0
+3137205,Lagoa da Prata/MG,14,0
+2608503,Lagoa de Itaenga/PE,1,0
+2406304,Lagoa de Pedras/RN,1,1
+2205565,Lagoa do Barro do Piauí/PI,1,0
+2608453,Lagoa do Carro/PE,2,1
+2608701,Lagoa dos Gatos/PE,1,1
+4209409,Laguna/SC,5,0
+4311403,Lajeado/RS,35,0
+2406809,Lajes Pintadas/RN,1,0
+5105234,Lambari D'Oeste/MT,1,0
+4113205,Lapa/PR,3,0
+3526407,Laranjal Paulista/SP,5,2
+1600279,Laranjal do Jari/AP,12,0
+2919207,Lauro de Freitas/BA,37,4
+2307502,Lavras da Mangabeira/CE,1,0
+3138203,Lavras/MG,7,0
+3526704,Leme/SP,4,2
+3526803,Lençóis Paulista/SP,3,0
+3138401,Leopoldina/MG,1,0
+4113403,Leópolis/PR,1,0
+3526902,Limeira/SP,10,1
+2307601,Limoeiro do Norte/CE,6,2
+2608909,Limoeiro/PE,9,3
+4209854,Lindóia do Sul/SC,4,0
+3203205,Linhares/ES,25,1
+3527108,Lins/SP,6,2
+4113700,Londrina/PR,91,8
+3527207,Lorena/SP,1,0
+3527306,Louveira/SP,1,0
+5105259,Lucas do Rio Verde/MT,1,1
+5212501,Luziânia/GO,9,2
+2205706,Luís Correia/PI,2,0
+2919553,Luís Eduardo Magalhães/BA,2,0
+2407005,Luís Gomes/RN,1,0
+1302405,Lábrea/AM,2,0
+2609006,Macaparana/PE,3,2
+1600303,Macapá/AP,405,12
+3528007,Macatuba/SP,1,0
+3302403,Macaé/RJ,21,5
+2407104,Macaíba/RN,11,0
+3528205,Macedônia/SP,0,0
+2704302,Maceió/AL,205,14
+3139003,Machado/MG,2,0
+2609105,Machados/PE,2,1
+4210100,Mafra/SC,2,0
+3302502,Magé/RJ,38,3
+3528403,Mairinque/SP,1,0
+3528502,Mairiporã/SP,14,4
+1302504,Manacapuru/AM,230,14
+1302603,Manaus/AM,1958,172
+4114203,Mandaguari/PR,1,0
+4114302,Mandirituba/PR,3,0
+3302601,Mangaratiba/RJ,5,2
+3139409,Manhuaçu/MG,3,0
+1302702,Manicoré/AM,1,1
+4114500,Manoel Ribas/PR,1,1
+1504208,Marabá/PA,9,1
+2307650,Maracanaú/CE,78,5
+2307700,Maranguape/CE,21,2
+1504406,Marapanim/PA,4,0
+4311791,Maratá/RS,1,0
+4311809,Marau/RS,28,1
+1302801,Maraã/AM,7,0
+4114609,Marechal Cândido Rondon/PR,2,0
+2704708,Marechal Deodoro/AL,6,1
+3140001,Mariana/MG,13,1
+2704807,Maribondo/AL,1,0
+3302700,Maricá/RJ,38,5
+4115200,Maringá/PR,50,5
+3140209,Maripá de Minas/MG,1,0
+1504422,Marituba/PA,19,1
+4115309,Mariópolis/PR,2,0
+3140308,Marliéria/MG,1,0
+4115507,Marumbi/PR,2,0
+3529005,Marília/SP,8,1
+2308005,Massapê/CE,1,0
+4210605,Massaranduba/SC,1,1
+3140803,Matias Barbosa/MG,0,0
+2106508,Matinha/MA,3,0
+4115705,Matinhos/PR,2,0
+3141108,Matozinhos/MG,1,0
+3529302,Matão/SP,3,0
+2308104,Mauriti/CE,2,0
+3529401,Mauá/SP,109,4
+1302900,Maués/AM,29,2
+1600402,Mazagão/AP,3,0
+2921104,Medeiros Neto/BA,1,0
+4115804,Medianeira/PR,4,0
+4210803,Meleiro/SC,1,0
+3302809,Mendes/RJ,1,0
+3302858,Mesquita/RJ,73,9
+2206209,Miguel Alves/PI,2,0
+3302908,Miguel Pereira/RJ,5,1
+3529708,Miguelópolis/SP,1,0
+2106672,Milagres do Maranhão/MA,1,0
+2308302,Milagres/CE,1,0
+4312252,Minas do Leão/RS,2,0
+3529807,Mineiros do Tietê/SP,3,1
+2106755,Miranda do Norte/MA,2,0
+5005608,Miranda/MS,1,0
+3530102,Mirandópolis/SP,1,0
+2921450,Mirante/BA,1,0
+5105622,Mirassol d'Oeste/MT,5,0
+3530300,Mirassol/SP,6,0
+2106805,Mirinzal/MA,1,0
+3530508,Mococa/SP,2,1
+3530706,Mogi Guaçu/SP,9,1
+3530805,Mogi Mirim/SP,1,0
+3530607,Mogi das Cruzes/SP,127,8
+2308500,Mombaça/CE,6,0
+3531100,Mongaguá/SP,5,1
+1504802,Monte Alegre/PA,1,0
+2407807,Monte Alegre/RN,3,0
+3531308,Monte Alto/SP,11,1
+3142908,Monte Azul/MG,1,0
+3143104,Monte Carmelo/MG,5,0
+3531803,Monte Mor/SP,1,0
+4312401,Montenegro/RS,3,0
+3143302,Montes Claros/MG,5,1
+5213756,Montividiu/GO,1,0
+2609402,Moreno/PE,14,2
+2921609,Morpará/BA,1,0
+4116208,Morretes/PR,1,0
+5213806,Morrinhos/GO,0,0
+3531902,Morro Agudo/SP,2,0
+4211207,Morro da Fumaça/SC,2,0
+2107100,Morros/MA,1,0
+3532009,Morungaba/SP,4,0
+2408003,Mossoró/RN,106,8
+1504901,Muaná/PA,1,0
+1400308,Mucajaí/RR,1,0
+2921906,Mucugê/BA,1,0
+2309102,Mulungu/CE,2,0
+5005681,Mundo Novo/MS,2,0
+3143807,Munhoz/MG,3,0
+3143906,Muriaé/MG,7,0
+2705507,Murici/AL,2,0
+4312609,Muçum/RS,1,0
+3140159,Mário Campos/MG,1,0
+1504059,Mãe do Rio/PA,1,0
+3144300,Nanuque/MG,2,1
+2408102,Natal/RN,304,7
+4211306,Navegantes/SC,19,0
+5005707,Naviraí/MS,1,0
+3144508,Nazareno/MG,1,0
+3532405,Nazaré Paulista/SP,1,0
+2609501,Nazaré da Mata/PE,2,0
+2206720,Nazária/PI,1,0
+5214507,Nerópolis/GO,1,0
+3532603,Nhandeara/SP,1,0
+4312674,Nicolau Vergueiro/RS,1,0
+3303203,Nilópolis/RJ,34,0
+3303302,Niterói/RJ,239,16
+2804508,Nossa Senhora da Glória/SE,2,0
+2804805,Nossa Senhora do Socorro/SE,1,0
+5006200,Nova Andradina/MS,11,0
+4116901,Nova Esperança/PR,5,0
+3303401,Nova Friburgo/RJ,32,1
+5214861,Nova Glória/GO,1,0
+3303500,Nova Iguaçu/RJ,224,18
+1504976,Nova Ipixuna/PA,1,0
+3144805,Nova Lima/MG,50,0
+4117107,Nova Londrina/PR,2,0
+5108956,Nova Monte Verde/MT,1,0
+5106224,Nova Mutum/MT,1,0
+3533403,Nova Odessa/SP,2,1
+1303106,Nova Olinda do Norte/AM,1,0
+4313102,Nova Palma/RS,1,0
+3145208,Nova Serrana/MG,1,1
+2922904,Nova Soure/BA,1,0
+4211504,Nova Trento/SC,1,0
+5215009,Nova Veneza/GO,1,0
+4211603,Nova Veneza/SC,2,0
+3203908,Nova Venécia/ES,3,0
+1303205,Novo Airão/AM,2,1
+3145307,Novo Cruzeiro/MG,1,0
+4313409,Novo Hamburgo/RS,26,2
+2309409,Novo Oriente/CE,2,0
+1505031,Novo Progresso/PA,2,0
+4312658,Não-Me-Toque/RS,3,0
+2408201,Nísia Floresta/RN,1,0
+2309458,Ocara/CE,2,0
+1505205,Oeiras do Pará/PA,4,0
+1600501,Oiapoque/AP,6,0
+2609600,Olinda/PE,293,25
+3533908,Olímpia/SP,4,0
+1505304,Oriximiná/PA,0,0
+4211702,Orleans/SC,3,0
+3534302,Orlândia/SP,4,0
+2609808,Orocó/PE,1,0
+2309508,Orós/CE,1,0
+3534401,Osasco/SP,353,32
+4313508,Osório/RS,2,0
+3534708,Ourinhos/SP,10,0
+2923308,Ouriçangas/BA,0,0
+3146008,Ouro Fino/MG,1,1
+1100155,Ouro Preto do Oeste/RO,6,0
+1505403,Ourém/PA,2,0
+2309607,Pacajus/CE,5,0
+1505486,Pacajá/PA,1,0
+1400456,Pacaraima/RR,13,0
+2309706,Pacatuba/CE,16,0
+2804904,Pacatuba/SE,2,0
+4117503,Paiçandu/PR,1,0
+4211900,Palhoça/SC,19,1
+4212007,Palma Sola/SC,1,0
+2610004,Palmares/PE,5,3
+4117602,Palmas/PR,1,0
+1721000,Palmas/TO,25,1
+2706307,Palmeira dos Índios/AL,2,0
+4117701,Palmeira/PR,2,0
+2923506,Palmeiras/BA,1,0
+2610202,Panelas/PE,1,0
+4212205,Papanduva/SC,2,0
+3303609,Paracambi/RJ,8,0
+3147006,Paracatu/MG,8,0
+2310209,Paracuru/CE,1,0
+3147303,Paraisópolis/MG,4,2
+2923605,Paramirim/BA,1,0
+4118105,Paranacity/PR,5,0
+4118204,Paranaguá/PR,12,2
+5216304,Paranaiguara/GO,1,0
+4118402,Paranavaí/PR,12,2
+5006309,Paranaíba/MS,2,0
+3303807,Paraty/RJ,4,1
+1505536,Parauapebas/PA,31,4
+4314001,Paraí/RS,2,0
+3303708,Paraíba do Sul/RJ,3,0
+5006275,Paraíso das Águas/MS,1,0
+1716109,Paraíso do Tocantins/TO,1,1
+5216403,Paraúna/GO,1,1
+4314035,Pareci Novo/RS,1,0
+1303403,Parintins/AM,35,3
+3536208,Pariquera-Açu/SP,4,0
+2403251,Parnamirim/RN,73,0
+2207702,Parnaíba/PI,10,2
+3147105,Pará de Minas/MG,5,0
+2409100,Passa e Fica/RN,1,0
+2610509,Passira/PE,3,0
+4314100,Passo Fundo/RS,58,5
+3147907,Passos/MG,1,0
+4118501,Pato Branco/PR,14,1
+3148004,Patos de Minas/MG,14,1
+2510808,Patos/PB,8,2
+3148103,Patrocínio/MG,9,1
+3303856,Paty do Alferes/RJ,2,0
+2409407,Pau dos Ferros/RN,2,0
+2610608,Paudalho/PE,18,6
+2610707,Paulista/PE,184,11
+3536570,Paulistânia/SP,1,0
+2924009,Paulo Afonso/BA,1,0
+4212304,Paulo Lopes/SC,2,0
+3536505,Paulínia/SP,9,0
+2107506,Paço do Lumiar/MA,57,3
+4118808,Peabiru/PR,2,0
+3536703,Pederneiras/SP,1,1
+3536802,Pedra Bela/SP,1,0
+2310506,Pedra Branca/CE,1,1
+2610806,Pedra/PE,4,0
+4212403,Pedras Grandes/SC,2,1
+2108207,Pedreiras/MA,1,0
+3204054,Pedro Canário/ES,1,0
+2207900,Pedro II/PI,1,1
+4314407,Pelotas/RS,12,0
+4212502,Penha/SC,4,1
+2310704,Pentecoste/CE,1,0
+3537305,Penápolis/SP,1,1
+3149903,Perdões/MG,1,0
+2310803,Pereiro/CE,1,0
+3537602,Peruíbe/SP,8,0
+4212650,Pescaria Brava/SC,1,0
+2610905,Pesqueira/PE,1,0
+2611101,Petrolina/PE,12,0
+3303906,Petrópolis/RJ,74,8
+2208007,Picos/PI,2,1
+3150406,Piedade dos Gerais/MG,1,0
+3537800,Piedade/SP,2,0
+3537909,Pilar do Sul/SP,3,0
+2706901,Pilar/AL,3,0
+1100189,Pimenta Bueno/RO,1,0
+2208106,Pimenteiras/PI,1,0
+3538006,Pindamonhangaba/SP,4,1
+3538105,Pindorama/SP,2,0
+2310852,Pindoretama/CE,2,0
+4119152,Pinhais/PR,19,1
+4119251,Pinhal de São Bento/PR,1,0
+3303955,Pinheiral/RJ,1,0
+4119301,Pinhão/PR,2,0
+3538600,Piracaia/SP,1,0
+3538709,Piracicaba/SP,25,2
+2208304,Piracuruca/PI,5,2
+3538808,Piraju/SP,2,0
+3538907,Pirajuí/SP,1,0
+3151107,Pirapetinga/MG,1,0
+3151206,Pirapora/MG,2,0
+4119509,Piraquara/PR,3,0
+4314605,Piratini/RS,1,0
+3539400,Piratininga/SP,3,0
+3304003,Piraí/RJ,3,0
+5217302,Pirenópolis/GO,0,0
+5217401,Pires do Rio/GO,3,1
+2924702,Piripá/BA,1,0
+3151503,Piumhi/MG,2,1
+3204203,Piúma/ES,2,0
+4119707,Planaltina do Paraná/PR,2,0
+5217609,Planaltina/GO,1,1
+1200385,Plácido de Castro/AC,21,1
+2925204,Pojuca/BA,1,0
+2512101,Pombal/PB,2,0
+2611309,Pombos/PE,8,1
+4213203,Pomerode/SC,1,0
+4119905,Ponta Grossa/PR,8,0
+5006606,Ponta Porã/MS,1,0
+3540200,Pontal/SP,4,0
+5106752,Pontes e Lacerda/MT,1,0
+3540408,Populina/SP,1,0
+3304102,Porciúncula/RJ,1,0
+2311108,Porteiras/CE,2,0
+1200807,Porto Acre/AC,1,0
+4314902,Porto Alegre/RS,401,10
+4213500,Porto Belo/SC,5,1
+3540606,Porto Feliz/SP,2,0
+3540705,Porto Ferreira/SP,2,1
+3152303,Porto Firme/MG,1,0
+1600535,Porto Grande/AP,1,0
+2707503,Porto Real do Colégio/AL,1,0
+3304110,Porto Real/RJ,3,0
+2925303,Porto Seguro/BA,17,0
+1100205,Porto Velho/RO,163,3
+2805604,Porto da Folha/SE,1,0
+2311231,Potiretama/CE,1,0
+3152501,Pouso Alegre/MG,21,2
+4213708,Pouso Redondo/SC,1,1
+3539806,Poá/SP,30,3
+2410108,Poço Branco/RN,1,0
+3151800,Poços de Caldas/MG,8,1
+2611200,Poção/PE,1,0
+2925501,Prado/BA,4,0
+3541000,Praia Grande/SP,57,7
+3541059,Pratânia/SP,2,0
+1303536,Presidente Figueiredo/AM,12,1
+2109205,Presidente Juscelino/MA,2,0
+3204302,Presidente Kennedy/ES,3,1
+3541406,Presidente Prudente/SP,8,2
+3541505,Presidente Venceslau/SP,8,3
+5107040,Primavera do Leste/MT,4,0
+1506104,Primavera/PA,1,0
+4120507,Primeiro de Maio/PR,2,1
+5218391,Professor Jamil/GO,5,1
+3541604,Promissão/SP,3,0
+2805703,Propriá/SE,2,0
+4120705,Quatiguá/PR,2,1
+1506112,Quatipuru/PA,1,0
+3304128,Quatis/RJ,2,0
+4120804,Quatro Barras/PR,1,0
+3541703,Quatá/SP,2,0
+2512507,Queimadas/PB,1,0
+3304144,Queimados/RJ,32,3
+4121000,Querência do Norte/PR,1,0
+3542008,Quintana/SP,1,0
+2611507,Quipapá/PE,1,0
+3304151,Quissamã/RJ,3,0
+4121208,Quitandinha/PR,2,0
+2311264,Quiterianópolis/CE,1,0
+2611533,Quixaba/PE,1,0
+2311306,Quixadá/CE,18,0
+2311405,Quixeramobim/CE,8,1
+2311504,Quixeré/CE,2,0
+4121257,Ramilândia/PR,1,0
+3542206,Rancharia/SP,1,0
+4214300,Rancho Queimado/SC,2,0
+2109452,Raposa/MA,8,2
+2611606,Recife/PE,1904,124
+2311603,Redenção/CE,5,0
+1506138,Redenção/PA,1,0
+3542602,Registro/SP,4,1
+2311702,Reriutaba/CE,1,0
+3304201,Resende/RJ,13,3
+2512762,Riachão do Poço/PB,1,1
+5218607,Rialma/GO,4,0
+2208874,Ribeira do Piauí/PI,1,0
+2926608,Ribeira do Pombal/BA,1,0
+3543303,Ribeirão Pires/SP,35,1
+3543402,Ribeirão Preto/SP,86,5
+3154606,Ribeirão das Neves/MG,2,0
+2611804,Ribeirão/PE,2,0
+3543709,Rincão/SP,1,0
+3543808,Rinópolis/SP,1,0
+3304300,Rio Bonito/RJ,10,3
+4122206,Rio Branco do Sul/PR,4,0
+1200401,Rio Branco/AC,172,7
+5107206,Rio Branco/MT,2,0
+3543907,Rio Claro/SP,14,4
+2611903,Rio Formoso/PE,3,0
+3544103,Rio Grande da Serra/SP,9,0
+4315602,Rio Grande/RS,4,0
+2707701,Rio Largo/AL,5,0
+4215000,Rio Negrinho/SC,1,0
+4122305,Rio Negro/PR,2,0
+3204401,Rio Novo do Sul/ES,3,0
+4315701,Rio Pardo/RS,1,0
+1303569,Rio Preto da Eva/AM,2,0
+2927002,Rio Real/BA,1,0
+4215059,Rio Rufino/SC,1,0
+5007406,Rio Verde de Mato Grosso/MS,1,0
+5218805,Rio Verde/GO,13,1
+3304508,Rio das Flores/RJ,1,0
+3304524,Rio das Ostras/RJ,24,5
+3304557,Rio de Janeiro/RJ,3656,303
+2926905,Rio do Pires/BA,2,0
+4214805,Rio do Sul/SC,2,0
+4316006,Rolante/RS,1,0
+1100288,Rolim de Moura/RO,3,0
+4122404,Rolândia/PR,3,0
+1506187,Rondon do Pará/PA,1,1
+5107602,Rondonópolis/MT,33,1
+1400472,Rorainópolis/RR,9,0
+4316402,Rosário do Sul/RS,1,0
+2109601,Rosário/MA,3,0
+2311801,Russas/CE,8,0
+3156700,Sabará/MG,10,0
+2612208,Salgueiro/PE,8,0
+1506203,Salinópolis/PA,2,0
+2311959,Salitre/CE,1,1
+3545308,Salto de Pirapora/SP,6,0
+3545209,Salto/SP,5,0
+2927408,Salvador/BA,1039,27
+1506302,Salvaterra/PA,2,0
+4316600,Sananduva/RS,3,0
+4215455,Sangão/SC,2,0
+2612406,Sanharó/PE,0,0
+4317103,Sant'Ana do Livramento/RS,7,0
+3546009,Santa Branca/SP,2,1
+3545803,Santa Bárbara d'Oeste/SP,2,1
+1506351,Santa Bárbara do Pará/PA,7,0
+4215505,Santa Cecília/SC,1,0
+2927705,Santa Cruz Cabrália/BA,7,0
+4123303,Santa Cruz de Monte Castelo/PR,2,0
+1506401,Santa Cruz do Arari/PA,3,0
+2612505,Santa Cruz do Capibaribe/PE,2,0
+3546405,Santa Cruz do Rio Pardo/SP,6,0
+4316808,Santa Cruz do Sul/RS,1,0
+2411205,Santa Cruz/RN,3,0
+4123402,Santa Fé/PR,7,1
+3546702,Santa Gertrudes/SP,1,0
+2109908,Santa Inês/MA,2,0
+4123709,Santa Isabel do Ivaí/PR,0,0
+1303601,Santa Isabel do Rio Negro/AM,1,0
+3546801,Santa Isabel/SP,3,1
+1506500,Santa Izabel do Pará/PA,12,0
+3204500,Santa Leopoldina/ES,1,0
+2928059,Santa Luzia/BA,1,0
+3157807,Santa Luzia/MG,6,0
+3546900,Santa Lúcia/SP,2,0
+2928109,Santa Maria da Vitória/BA,1,0
+3158003,Santa Maria de Itabira/MG,1,0
+3204559,Santa Maria de Jetibá/ES,3,0
+1506609,Santa Maria do Pará/PA,1,0
+4316907,Santa Maria/RS,18,0
+4123956,Santa Mônica/PR,7,1
+2312205,Santa Quitéria/CE,4,1
+2110203,Santa Rita/MA,6,0
+2513703,Santa Rita/PB,25,3
+4215604,Santa Rosa de Lima/SC,0,0
+4215653,Santa Rosa do Sul/SC,1,0
+4317202,Santa Rosa/RS,4,0
+3204609,Santa Teresa/ES,4,0
+2928505,Santa Teresinha/BA,2,0
+4124053,Santa Terezinha de Itaipu/PR,1,0
+3547304,Santana de Parnaíba/SP,65,1
+2312007,Santana do Acaraú/CE,4,0
+4124004,Santana do Itararé/PR,1,0
+3158953,Santana do Paraíso/MG,3,0
+1600600,Santana/AP,61,2
+1506807,Santarém/PA,35,3
+4317400,Santiago/RS,1,0
+4215703,Santo Amaro da Imperatriz/SC,3,0
+3547809,Santo André/SP,275,14
+3547908,Santo Antônio da Alegria/SP,1,1
+4317608,Santo Antônio da Patrulha/RS,2,0
+3304706,Santo Antônio de Pádua/RJ,1,0
+4124202,Santo Antônio do Caiuá/PR,1,0
+5219753,Santo Antônio do Descoberto/GO,1,0
+1303700,Santo Antônio do Içá/AM,11,0
+3160405,Santo Antônio do Monte/MG,3,0
+1507003,Santo Antônio do Tauá/PA,11,0
+2411502,Santo Antônio/RN,5,0
+4317905,Santo Cristo/RS,1,0
+3160702,Santos Dumont/MG,3,0
+3548500,Santos/SP,323,19
+4319901,Sapiranga/RS,7,0
+4320008,Sapucaia do Sul/RS,7,0
+3305406,Sapucaia/RJ,3,2
+2515302,Sapé/PB,8,1
+3305505,Saquarema/RJ,5,0
+4126256,Sarandi/PR,2,0
+4320107,Sarandi/RS,1,0
+3165537,Sarzedo/MG,1,0
+2708907,Satuba/AL,1,0
+4217402,Schroeder/SC,1,0
+5007802,Selvíria/MS,1,0
+3165578,Senador Amaral/MG,4,0
+5220454,Senador Canedo/GO,3,0
+1200450,Senador Guiomard/AC,2,0
+2312700,Senador Pompeu/CE,5,0
+2312809,Senador Sá/CE,1,0
+4320404,Serafina Corrêa/RS,8,1
+3305554,Seropédica/RJ,4,0
+2515500,Serra Branca/PB,1,0
+2930402,Serra Preta/BA,1,0
+2613909,Serra Talhada/PE,6,0
+2413300,Serra de São Bento/RN,1,0
+1600055,Serra do Navio/AP,2,0
+2930154,Serra do Ramalho/BA,1,0
+3166808,Serra do Salitre/MG,1,0
+3205002,Serra/ES,314,12
+3551504,Serrana/SP,1,0
+2930501,Serrinha/BA,4,0
+4126405,Sertaneja/PR,1,0
+2614105,Sertânia/PE,1,1
+3551702,Sertãozinho/SP,9,1
+3167202,Sete Lagoas/MG,6,0
+4217600,Siderópolis/SC,7,0
+5007901,Sidrolândia/MS,1,0
+3305604,Silva Jardim/RJ,1,0
+5220603,Silvânia/GO,1,0
+2807105,Simão Dias/SE,4,1
+2930709,Simões Filho/BA,5,0
+5107909,Sinop/MT,13,0
+2614204,Sirinhaém/PE,3,0
+2312908,Sobral/CE,32,0
+3167707,Sobrália/MG,1,0
+4320800,Soledade/RS,1,0
+4217709,Sombrio/SC,10,1
+5007935,Sonora/MS,11,0
+3205010,Sooretama/ES,2,0
+3552205,Sorocaba/SP,56,12
+2516201,Sousa/PB,2,0
+3552403,Sumaré/SP,8,0
+3305703,Sumidouro/RJ,1,0
+2614501,Surubim/PE,2,0
+3552502,Suzano/SP,83,7
+2110401,São Benedito do Rio Preto/MA,1,0
+4215802,São Bento do Sul/SC,1,0
+2613008,São Bento do Una/PE,1,0
+2513901,São Bento/PB,1,0
+3548708,São Bernardo do Campo/SP,339,20
+3160900,São Brás do Suaçuí/MG,2,0
+1507102,São Caetano de Odivelas/PA,1,0
+3548807,São Caetano do Sul/SP,112,4
+2613107,São Caitano/PE,4,0
+3548906,São Carlos/SP,9,2
+2806701,São Cristóvão/SE,3,0
+4318051,São Domingos do Sul/RS,3,0
+2928950,São Domingos/BA,1,0
+4216107,São Domingos/SC,5,0
+3304805,São Fidélis/RJ,3,0
+3304755,São Francisco de Itabapoana/RJ,2,1
+2929206,São Francisco do Conde/BA,3,0
+4216206,São Francisco do Sul/SC,2,0
+3161106,São Francisco/MG,1,1
+1303809,São Gabriel da Cachoeira/AM,0,0
+3204708,São Gabriel da Palha/ES,2,0
+4318309,São Gabriel/RS,1,0
+3161601,São Geraldo da Piedade/MG,1,0
+1507458,São Geraldo do Araguaia/PA,1,0
+2312403,São Gonçalo do Amarante/CE,5,1
+2412005,São Gonçalo do Amarante/RN,34,2
+3304904,São Gonçalo/RJ,122,9
+3162104,São Gotardo/MG,2,0
+3549409,São Joaquim da Barra/SP,2,0
+4318440,São Jorge/RS,2,0
+2613404,São José da Coroa Grande/PE,1,1
+3162955,São José da Lapa/MG,2,0
+2412203,São José de Mipibu/RN,5,0
+2111201,São José de Ribamar/MA,120,5
+3204807,São José do Calçado/ES,2,0
+2210052,São José do Divino/PI,3,1
+2613602,São José do Egito/PE,1,0
+2210201,São José do Piauí/PI,1,0
+3549706,São José do Rio Pardo/SP,1,0
+3549805,São José do Rio Preto/SP,73,8
+3549904,São José dos Campos/SP,139,3
+4125506,São José dos Pinhais/PR,18,0
+5107107,São José dos Quatro Marcos/MT,4,0
+4216602,São José/SC,46,1
+3162906,São João Nepomuceno/MG,1,0
+3305000,São João da Barra/RJ,1,0
+3549102,São João da Boa Vista/SP,5,0
+3305109,São João de Meriti/RJ,106,8
+3162500,São João del Rei/MG,4,0
+1507508,São João do Araguaia/PA,1,0
+4124905,São João do Caiuá/PR,7,0
+4125001,São João do Ivaí/PR,6,1
+2312502,São João do Jaguaribe/CE,1,0
+2500700,São João do Rio do Peixe/PB,1,0
+2111102,São João dos Patos/MA,1,0
+4318705,São Leopoldo/RS,23,1
+2613701,São Lourenço da Mata/PE,87,18
+3549953,São Lourenço da Serra/SP,1,0
+4216909,São Lourenço do Oeste/SC,2,0
+4318804,São Lourenço do Sul/RS,1,0
+3163706,São Lourenço/MG,2,0
+4217006,São Ludgero/SC,6,1
+1400605,São Luiz/RR,1,0
+5220108,São Luís de Montes Belos/GO,2,0
+2312601,São Luís do Curu/CE,3,0
+2111300,São Luís/MA,1417,61
+4125555,São Manoel do Paraná/PR,1,0
+3550100,São Manuel/SP,4,1
+3204906,São Mateus/ES,12,1
+3550209,São Miguel Arcanjo/SP,3,0
+2412559,São Miguel do Gostoso/RN,1,0
+1507607,São Miguel do Guamá/PA,10,1
+2708709,São Miguel dos Milagres/AL,1,1
+2412500,São Miguel/RN,1,0
+1303908,São Paulo de Olivença/AM,15,0
+3550308,São Paulo/SP,10691,778
+3305208,São Pedro da Aldeia/RJ,12,2
+4217253,São Pedro de Alcântara/SC,1,0
+2412708,São Pedro/RN,1,0
+3550407,São Pedro/SP,1,0
+2412807,São Rafael/RN,1,1
+2210607,São Raimundo Nonato/PI,7,0
+3204955,São Roque do Canaã/ES,2,0
+3550605,São Roque/SP,8,0
+1507706,São Sebastião da Boa Vista/PA,5,0
+4319505,São Sebastião do Caí/RS,2,0
+3164704,São Sebastião do Paraíso/MG,2,1
+3550704,São Sebastião/SP,14,2
+3165107,São Tomás de Aquino/MG,2,1
+2613800,São Vicente Ferrer/PE,1,0
+3551009,São Vicente/SP,60,1
+1304062,Tabatinga/AM,22,1
+4320859,Tabaí/RS,4,0
+2614600,Tabira/PE,1,1
+3552809,Taboão da Serra/SP,132,8
+2313104,Tabuleiro do Norte/CE,4,0
+3553104,Taiaçu/SP,0,0
+1507953,Tailândia/PA,1,0
+2413904,Taipu/RN,1,1
+4126702,Tamboara/PR,1,0
+3553401,Tanabi/SP,3,0
+5107958,Tangará da Serra/MT,5,0
+4217907,Tangará/SC,2,1
+3305752,Tanguá/RJ,9,6
+2931202,Taperoá/BA,4,0
+2516508,Taperoá/PB,1,1
+4321204,Taquara/RS,1,0
+4321303,Taquari/RS,5,0
+3553708,Taquaritinga/SP,1,0
+3553807,Taquarituba/SP,1,0
+3553906,Tarabai/SP,2,0
+3554003,Tatuí/SP,7,0
+3554102,Taubaté/SP,8,0
+2313302,Tauá/CE,5,0
+1304203,Tefé/AM,6,1
+2931350,Teixeira de Freitas/BA,9,0
+4127106,Telêmaco Borba/PR,11,0
+2414100,Tenente Ananias/RN,2,2
+2211001,Teresina/PI,156,7
+3305802,Teresópolis/RJ,24,1
+1507961,Terra Alta/PA,1,0
+4127205,Terra Boa/PR,2,0
+4127304,Terra Rica/PR,1,0
+3554409,Terra Roxa/SP,1,0
+4321451,Teutônia/RS,1,0
+3168606,Teófilo Otoni/MG,1,0
+2313401,Tianguá/CE,4,1
+2411056,Tibau/RN,2,0
+4218004,Tijucas/SC,4,0
+2615300,Timbaúba/PE,5,2
+4218103,Timbé do Sul/SC,1,0
+4218202,Timbó/SC,4,0
+2112209,Timon/MA,9,0
+3168705,Timóteo/MG,8,0
+4321469,Tio Hugo/RS,2,1
+1721208,Tocantinópolis/TO,1,0
+3169109,Toledo/MG,4,0
+4127700,Toledo/PR,1,0
+2807501,Tomar do Geru/SE,1,0
+1304237,Tonantins/AM,13,0
+2615409,Toritama/PE,1,0
+4321501,Torres/RS,9,0
+2414407,Touros/RN,1,1
+1508035,Tracuateua/PA,1,0
+2615508,Tracunhaém/PE,2,0
+2313500,Trairi/CE,2,0
+3305901,Trajano de Moraes/RJ,0,0
+4321600,Tramandaí/RS,1,0
+4218400,Treze de Maio/SC,3,0
+5221403,Trindade/GO,7,0
+2615706,Triunfo/PE,2,0
+4322004,Triunfo/RS,1,0
+2112233,Trizidela do Vale/MA,2,0
+5008305,Três Lagoas/MS,18,2
+3169406,Três Pontas/MG,2,1
+3306008,Três Rios/RJ,5,0
+4218707,Tubarão/SC,33,2
+1508084,Tucumã/PA,1,0
+1508100,Tucuruí/PA,5,0
+2112308,Tuntum/MA,1,0
+2615805,Tupanatinga/PE,0,0
+4322251,Tupandi/RS,1,0
+2615904,Tuparetama/PE,1,0
+3555000,Tupã/SP,2,0
+4127957,Tupãssi/PR,1,0
+2313559,Tururu/CE,1,0
+3555406,Ubatuba/SP,3,0
+2932309,Ubatã/BA,4,0
+3170107,Uberaba/MG,26,3
+3170206,Uberlândia/MG,72,5
+3169901,Ubá/MG,4,0
+4128104,Umuarama/PR,4,0
+2932507,Una/BA,2,0
+3170404,Unaí/MG,2,0
+4128203,União da Vitória/PR,6,0
+5108303,União do Sul/MT,1,0
+2709301,União dos Palmares/AL,1,0
+2211100,União/PI,2,0
+2112605,Urbano Santos/MA,3,0
+5221601,Uruaçu/GO,0,0
+4322400,Uruguaiana/RS,3,0
+2313906,Uruoca/CE,1,0
+4219002,Urussanga/SC,3,1
+2932705,Uruçuca/BA,13,2
+2932804,Utinga/BA,1,1
+4322509,Vacaria/RS,3,1
+2933000,Valente/BA,1,0
+2932903,Valença/BA,4,0
+3306107,Valença/RJ,4,0
+3556206,Valinhos/SP,14,3
+5221858,Valparaíso de Goiás/GO,7,1
+3556453,Vargem Grande Paulista/SP,10,3
+2112704,Vargem Grande/MA,2,0
+3170701,Varginha/MG,11,1
+3170909,Varzelândia/MG,1,1
+3171006,Vazante/MG,2,0
+3205069,Venda Nova do Imigrante/ES,8,0
+4322608,Venâncio Aires/RS,3,0
+2933208,Vera Cruz/BA,1,0
+4322806,Veranópolis/RS,1,0
+2616209,Vertentes/PE,1,0
+4128609,Verê/PR,3,0
+3171204,Vespasiano/MG,0,0
+4323002,Viamão/RS,17,0
+3205101,Viana/ES,14,1
+2112803,Viana/MA,2,0
+5222005,Vianópolis/GO,1,0
+4323200,Victor Graeff/RS,2,0
+2616308,Vicência/PE,1,0
+4219200,Vidal Ramos/SC,1,0
+4219309,Videira/SC,1,0
+1508209,Vigia/PA,12,0
+5105507,Vila Bela da Santíssima Trindade/MT,1,0
+4323408,Vila Maria/RS,1,0
+3205176,Vila Valério/ES,1,0
+3205200,Vila Velha/ES,358,8
+1100304,Vilhena/RO,1,0
+3556701,Vinhedo/SP,14,0
+3556909,Vista Alegre do Alto/SP,1,0
+2113009,Vitorino Freire/MA,1,0
+4128708,Vitorino/PR,1,0
+2933307,Vitória da Conquista/BA,23,1
+2616407,Vitória de Santo Antão/PE,30,6
+1600808,Vitória do Jari/AP,2,0
+2112902,Vitória do Mearim/MA,6,0
+3205309,Vitória/ES,291,9
+2314102,Viçosa do Ceará/CE,1,0
+2709400,Viçosa/AL,1,1
+3171303,Viçosa/MG,0,0
+3306305,Volta Redonda/RJ,174,6
+3557006,Votorantim/SP,7,2
+3557105,Votuporanga/SP,9,0
+2314003,Várzea Alegre/CE,3,0
+5108402,Várzea Grande/MT,11,0
+3556503,Várzea Paulista/SP,6,2
+4219705,Xaxim/SC,1,0
+1508407,Xinguara/PA,2,0
+2114007,Zé Doca/MA,3,0
+2900405,Água Fria/BA,0,1
+5200258,Águas Lindas de Goiás/GO,5,0
+4200606,Águas Mornas/SC,1,0
+3500501,Águas de Lindóia/SP,1,1
+3500600,Águas de São Pedro/SP,1,0
+1505106,Óbidos/PA,2,0
